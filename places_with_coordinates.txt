@@ -1,0 +1,65 @@
+Tezpur, Sonitpur, Assam, India;26.61695705;92.76500717365028
+Nilgiris, NH181, Krishnaswamy Nagar, Ward 67, East Zone, Coimbatore, Coimbatore North, Coimbatore District, Tamil Nadu, 641001, India;10.9970453;76.9986783
+Palur, Panruti, Cuddalore District, Tamil Nadu, 607104, India;11.7563529;79.6227974
+Thondamuthur, Government Hospital, Coimbatore - Thondamuthur - Narasipuram Road, RS Puram, Ward 20, West Zone, Kulathupalayam, Coimbatore South, Coimbatore District, Tamil Nadu, 641109, India;10.9917607;76.8421063
+Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road, Mettuppalayam, Mettupalayam, Coimbatore District, Tamil Nadu, 641301, India;11.3099105;76.932952
+('Alankadavu, Thirunelveli, Tamil Nadu',)null
+('Mulluvadi, Salem\xa0, Tamil Nadu',)null
+('Adukkumuttan, Kanyakumari\xa0, Tamil Nadu',)null
+('P.N.Pudur, Coimbatore, Tamil Nadu',)null
+Virinjipuram Road, Virinchīpuram, Vellore, Vellore District, Tamil Nadu, 632204, India;12.9220885;79.0258384
+('Amampalayam, Salem, Tamil Nadu',)null
+Jedarpalayam, Tiruchengode, Namakkal District, Tamil Nadu, India;11.368801;78.083696
+('Mannarpalayam, Salem, Tamil Nadu',)null
+Yercaud, Salem District, Tamil Nadu, India;11.82453055;78.24682683146447
+('Myladuthurai, Tamil Nadu',)null
+Palakkad, Kerala, India;10.78789845;76.47408711165895
+Malapuram, Engapuzha, Thamarassery, Kozhikode district, Kerala, India;11.45340675;75.95919013934926
+('Sreekariyam, Kerla, Kerala',)null
+('Baharguda, Bastar C.G., Chhattisgarh',)null
+('Bhejpadar, Bastar C.G., Chhattisgarh',)null
+('Geedam, Dantewada C.G., Chhattisgarh',)null
+('Jondhraguda, Bastar C.G., Chhattisgarh',)null
+('Karap, Kanker C.G., Chhattisgarh',)null
+('Khadiguda, Bastar C.G., Chhattisgarh',)null
+('Kosavet, Jaspur C.G., Chhattisgarh',)null
+('Madpal, Bastar C.G., Chhattisgarh',)null
+('Marenga, Bastar C.G., Chhattisgarh',)null
+('Marlenga, Bastar C.G., Chhattisgarh',)null
+('Pandeguda, Bastar C.G., Chhattisgarh',)null
+('Rajnagarpara, Bastar C.G., Chhattisgarh',)null
+('Sukurpal, Bastar C.G., Chhattisgarh',)null
+('Tongpal, Bastar C.G., Chhattisgarh',)null
+('Jagdalpur, Chhatisgarh, Chhattisgarh',)null
+Silvassa, Nagar Haveli, Dadra and Nagar Haveli, Dadra and Nagar Haveli and Daman and Diu, 396230, India;20.2736768;73.0045787
+('Sarav, Jalalpore, Navsari, Gujarat',)null
+Araku, NH516E, Thamalguda, Araku Valley, Alluri Sitharama Raju, Andhra Pradesh, 531151, India;18.3329216;82.8652583
+('Antharla, Andhra Pradesh',)null
+Arasada, Balijipeta, Parvathipuram Manyam, Andhra Pradesh, India;18.6595823;83.5018277
+Chintapalli, Orvakal, Kurnool District, Andhra Pradesh, India;15.5883783;78.1257659
+('chowdupalli, Andhra Pradesh',)null
+Vijaya Dairy, A Camp Road, Lakshmi Nagar, Kurnool, Kurnool District, Andhra Pradesh, 518001, India;15.8190194;78.04413214471884
+Dasaradhapuram, Pathapatnam, Srikakulam, Andhra Pradesh, 532213, India;18.7494585;84.1162287
+('Gurrampalem, Andhra Pradesh',)null
+Thimmapuram, Edlapadu, Guntur, Andhra Pradesh, 522233, India;16.146295;80.2078617
+Jaggayyapeta, NTR, Andhra Pradesh, India;16.882983;80.07525257456197
+Kandrakota, Peddapuram, Kakinada, Andhra Pradesh, 533433, India;17.145136;82.1305775
+Katravulapalli, Jaggampeta, East Godavari, Andhra Pradesh, India;17.127509;82.0827784
+Mallavaram, Maredumilli, East Godavari, Andhra Pradesh, India;17.552411;81.7588109
+Mandasa, Srikakulam, Andhra Pradesh, 532242, India;18.8689665;84.4632615
+Marripudi, Prakasam, Andhra Pradesh, India;15.4725248;79.69434864799078
+Mettavalasa, Laveru, Srikakulam, Andhra Pradesh, 532407, India;18.2082514;83.7369671
+Nidadavolu, Nidadavole, West Godavari, Andhra Pradesh, 534301, India;16.9100459;81.673242
+('Nookalavada, Andhra Pradesh',)null
+Palakonda, Parvathipuram Manyam, Andhra Pradesh, India;18.627335950000003;83.7408692553222
+Peddapuram, Kakinada, Andhra Pradesh, India;17.09813605;82.13236972772236
+('Pidathamamivi, Andhra Pradesh',)null
+Pubbada, Seethampeta, Parvathipuram Manyam, Andhra Pradesh, India;18.7306234;83.727119
+Rajendra Nagar, Nagavarappadu, Gudivada, Krishna, Andhra Pradesh, 521300, India;16.4403237;80.994652
+Rangampeta, East Godavari, Andhra Pradesh, 533291, India;17.05134845;81.99740312853817
+('Rinthada, Andhra Pradesh',)null
+Samalkota, Kakinada, Andhra Pradesh, India;17.0262986;82.17772837415114
+('Sovva, Andhra Pradesh',)null
+('Thotaguda, Andhra Pradesh',)null
+('Veeravada, Andhra Pradesh',)null
+阿波市, 徳島県, 日本;34.1021279;134.2976029
